@@ -1,0 +1,9 @@
+{
+  "name": "import-geoman-with-leaflet-as-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.14.2",
+    "leaflet": "^1.9.3"
+  }
+}
