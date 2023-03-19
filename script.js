@@ -1,4 +1,7 @@
+// This works:
 import './node_modules/leaflet/dist/leaflet.js';
+// This doesn't:
+// import * as L from './node_modules/leaflet/dist/leaflet-src.esm.js';
 import './node_modules/@geoman-io/leaflet-geoman-free/dist/leaflet-geoman.min.js';
 
 // We’ll add a tile layer to add to our map, in this case it’s a OSM tile layer.
